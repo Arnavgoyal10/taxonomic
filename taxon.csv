@@ -1,0 +1,271 @@
+Assembly Name	Assembly Accession	Assembly Paired Assembly Accession	Organism Name	Organism Taxonomic ID	 Order          	 Class    
+VMU_Ajub_asm_v1.0	GCF_027475565.1	GCA_027475565.2	Acinonyx jubatus	32536	 Carnivora      	 Mammalia 
+mAcoRus1.1	GCF_903995435.1	GCA_903995435.1	Acomys russatus	60746	 Rodentia       	 Mammalia 
+ASM200744v3	GCF_002007445.2	GCA_002007445.3	Ailuropoda melanoleuca	9646	 Carnivora      	 Mammalia 
+M_Fortis_MF-2015_v1.1	GCF_014885135.2	GCA_014885135.2	Alexandromys fortis	100897	 Rodentia       	 Mammalia 
+AdamAnt_v2	GCF_016432865.1	GCA_016432865.2	Antechinus flavipes	38775	 Dasyuromorphia 	 Mammalia 
+86718_ANA_hifiasm-v0.15.2.pri	GCF_030222135.1	GCA_030222135.1	Aotus nancymaae	37293	 Primates       	 Mammalia 
+Apodemus_speciosus_assembly02	GCA_045298715.1		Apodemus speciosus	105296	 Rodentia       	 Mammalia 
+mApoSyl1.1	GCF_947179515.1	GCA_947179515.1	Apodemus sylvaticus	10129	 Rodentia       	 Mammalia 
+CSHL_Jam_final	GCF_021234435.1	GCA_021234435.1	Artibeus jamaicensis	9417	 Chiroptera     	 Mammalia 
+mArvNil1.pat.X	GCF_011762505.2	GCA_011762505.3	Arvicanthis niloticus	61156	 Rodentia       	 Mammalia 
+mArvAmp1.2	GCF_903992535.2	GCA_903992535.2	Arvicola amphibius	1047088	 Rodentia       	 Mammalia 
+mBalAcu1.1	GCF_949987535.1	GCA_949987535.1	Balaenoptera acutorostrata	9767	 Cetacea        	 Mammalia 
+mBalMus1.pri.v3	GCF_009873245.2	GCA_009873245.3	Balaenoptera musculus	9771	 Cetacea        	 Mammalia 
+mBalRic1.hap2	GCF_028023285.1	GCA_028023285.1	Balaenoptera ricei	2746895	 Cetacea        	 Mammalia 
+Bison_UMD1.0	GCF_000754665.1	GCA_000754665.1	Bison bison bison	43346	 Artiodactyla   	 Mammalia 
+NIAB-ARS_B.indTharparkar_mat_pri_1.0	GCF_029378745.1	GCA_029378745.1	Bos indicus	9915	 Artiodactyla   	 Mammalia 
+UOA_Brahman_1	GCF_003369695.1	GCA_003369695.2	Bos indicus x Bos taurus	30522	 Artiodactyla   	 Mammalia 
+ARS-OSU_banteng_1.0	GCF_032452875.1	GCA_032452875.1	Bos javanicus	9906	 Artiodactyla   	 Mammalia 
+NWIPB_WYAK_1.1	GCF_027580195.1	GCA_027580195.2	Bos mutus	72004	 Artiodactyla   	 Mammalia 
+ARS-UCD2.0	GCF_002263795.3	GCA_002263795.4	Bos taurus	9913	 Artiodactyla   	 Mammalia 
+NDDB_SH_1	GCF_019923935.1	GCA_019923935.1	Bubalus bubalis	89462	 Artiodactyla   	 Mammalia 
+PCC_UOA_SB_1v2	GCF_029407905.1	GCA_029407905.2	Bubalus kerabau	3119969	 Artiodactyla   	 Mammalia 
+Takin1.1	GCF_023091745.1	GCA_023091745.2	Budorcas taxicolor	37181	 Artiodactyla   	 Mammalia 
+mCalJa1.2.pat.X	GCF_011100555.1	GCA_011100555.2	Callithrix jacchus	9483	 Primates       	 Mammalia 
+GSC_fseal_2.0	GCF_003265705.2	GCA_003265705.2	Callorhinus ursinus	34884	 Carnivora      	 Mammalia 
+mCalLat2.hap1	GCF_048772815.1	GCA_048772815.1	Callospermophilus lateralis	76772	 Rodentia       	 Mammalia 
+ASM4877302v1	GCF_048773025.1	GCA_048773025.1	Camelus bactrianus	9837	 Artiodactyla   	 Mammalia 
+mCamDro1.pat	GCF_036321535.1	GCA_036321535.1	Camelus dromedarius	9838	 Artiodactyla   	 Mammalia 
+BCGSAC_Cfer_1.0	GCF_009834535.1	GCA_009834535.1	Camelus ferus	419612	 Artiodactyla   	 Mammalia 
+VMU_Caureus_v.1.0	GCF_053574225.1	GCA_053574225.1	Canis aureus	68724	 Carnivora      	 Mammalia 
+mCanLup2.hap1	GCF_048164855.1	GCA_048164855.1	Canis lupus baileyi	143281	 Carnivora      	 Mammalia 
+ASM325472v2	GCF_003254725.2	GCA_003254725.2	Canis lupus dingo	286419	 Carnivora      	 Mammalia 
+UU_Cfam_GSD_1.0	GCF_011100685.1	GCA_011100685.1	Canis lupus familiaris	9615	 Carnivora      	 Mammalia 
+ARS1.2	GCF_001704415.2	GCA_001704415.2	Capra hircus	9925	 Artiodactyla   	 Mammalia 
+serow.2	GCF_032405125.1	GCA_032405125.2	Capricornis sumatraensis	34865	 Artiodactyla   	 Mammalia 
+Tarsius_syrichta-2.0.1	GCF_000164805.1	GCA_000164805.2	Carlito syrichta	1868482	 Primates       	 Mammalia 
+mCasCan1.hap1v2	GCF_047511655.1	GCA_047511655.2	Castor canadensis	51338	 Rodentia       	 Mammalia 
+mCavPor4.1	GCF_034190915.1	GCA_034190915.1	Cavia porcellus	10141	 Rodentia       	 Mammalia 
+Cebus_imitator-1.0	GCF_001604975.1	GCA_001604975.1	Cebus imitator	2715852	 Primates       	 Mammalia 
+CerSimSim1.0	GCF_000283155.1	GCA_000283155.1	Ceratotherium simum simum	73337	 Perissodactyla 	 Mammalia 
+Caty_1.0	GCF_000955945.1	GCA_000955945.1	Cercocebus atys	9531	 Primates       	 Mammalia 
+ASM1932006v1	GCF_019320065.1	GCA_019320065.1	Cervus canadensis	1574408	 Artiodactyla   	 Mammalia 
+mCerEla1.1	GCF_910594005.1	GCA_910594005.1	Cervus elaphus	9860	 Artiodactyla   	 Mammalia 
+CEY_v1	GCA_010411085.1		Cervus hanglu yarkandensis	84702	 Artiodactyla   	 Mammalia 
+ChiLan1.0	GCF_000276665.1	GCA_000276665.1	Chinchilla lanigera	34839	 Rodentia       	 Mammalia 
+mChiNiv1.1	GCF_950005125.1	GCA_950005125.1	Chionomys nivalis	269649	 Rodentia       	 Mammalia 
+mChlSab1.0.hap1	GCF_047675955.1	GCA_047675955.1	Chlorocebus sabaeus	60711	 Primates       	 Mammalia 
+mChoDid1.pri	GCF_015220235.1	GCA_015220235.1	Choloepus didactylus	27675	 Pilosa         	 Mammalia 
+ChrAsi1.0	GCF_000296735.1	GCA_000296735.1	Chrysochloris asiatica	185453	 Afrosoricida   	 Mammalia 
+BLF_Eptnil_asm_v1.0	GCA_030846915.1		Cnephaeus nilssonii	3371016	 Rodentia       	 Mammalia 
+Cang.pa_1.0	GCF_000951035.1	GCA_000951035.1	Colobus angolensis palliatus	336983	 Primates       	 Mammalia 
+ConCri1.0	GCF_000260355.1	GCA_000260355.1	Condylura cristata	143302	 Eulipotyphla   	 Mammalia 
+CriGri_1.0	GCF_000223135.1	GCA_000223135.1	Cricetulus griseus	10029	 Rodentia       	 Mammalia 
+BGI_CrCroc_1.0	GCF_008692635.1	GCA_008692635.1	Crocuta crocuta	9678	 Carnivora      	 Mammalia 
+mCynVol1.pri	GCF_027409185.1	GCA_027409185.1	Cynocephalus volans	110931	 Dermoptera     	 Mammalia 
+ASM3311817v1	GCF_033118175.1	GCA_033118175.1	Dama dama	30532	 Artiodactyla    	 Mammalia 
+mDasNov1.1.hap2	GCF_030445035.2	GCA_030445035.2	Dasypus novemcinctus	9361	 Cingulata       	 Mammalia 
+DMad_hybrid	GCA_044048945.1		Daubentonia madagascariensis	31869	 Primates        	 Mammalia 
+ASM228892v3	GCF_002288925.2	GCA_002288925.3	Delphinapterus leucas	9749	 Cetacea         	 Mammalia 
+mDelDel1.2	GCF_949987515.2	GCA_949987515.2	Delphinus delphis	9728	 Cetacea         	 Mammalia 
+HLdesRot8A.1	GCF_022682495.2	GCA_022682495.2	Desmodus rotundus	9430	 Chiroptera      	 Mammalia 
+mDicBic1.mat.cur	GCF_020826845.1	GCA_020826845.1	Diceros bicornis minor	77932	 Perissodactyla  	 Mammalia 
+mDipMer1.0.p	GCF_024711535.1	GCA_024711535.1	Dipodomys merriami	94247	 Rodentia        	 Mammalia 
+Dord_2.0	GCF_000151885.1	GCA_000151885.2	Dipodomys ordii	10020	 Rodentia        	 Mammalia 
+ASM1905484v1	GCF_019054845.1	GCA_019054845.1	Dipodomys spectabilis	105255	 Rodentia        	 Mammalia 
+mDroGli1.pri	GCF_019393635.1	GCA_019393635.1	Dromiciops gliroides	33562	 Microbiotheria  	 Mammalia 
+ASM31398v2	GCF_000313985.2	GCA_000313985.2	Echinops telfairi	9371	 Afrosoricida    	 Mammalia 
+EleEdw1.0	GCF_000299155.1	GCA_000299155.1	Elephantulus edwardii	28737	 Macroscelidea   	 Mammalia 
+mEleMax1 primary haplotype	GCF_024166365.1	GCA_024166365.1	Elephas maximus indicus	99487	 Proboscidea     	 Mammalia 
+ASM228890v2	GCF_002288905.1	GCA_002288905.2	Enhydra lutris kenyoni	391180	 Carnivora       	 Mammalia 
+DD_ASM_mEF_20220401	GCF_027574615.1	GCA_027574615.1	Eptesicus fuscus	29078	 Chiroptera      	 Mammalia 
+EquAss-T2T_v2	GCF_041296235.1	GCA_041296235.2	Equus asinus	9793	 Perissodactyla  	 Mammalia 
+TB-T2T	GCF_041296265.1	GCA_041296265.1	Equus caballus	9796	 Perissodactyla  	 Mammalia 
+EquPr2	GCF_037783145.1	GCA_037783145.1	Equus przewalskii	9798	 Perissodactyla  	 Mammalia 
+UCLA_HA_Equagga_1.0	GCF_021613505.1	GCA_021613505.1	Equus quagga	89248	 Perissodactyla  	 Mammalia 
+mEriEur2.1	GCF_950295315.1	GCA_950295315.1	Erinaceus europaeus	9365	 Eulipotyphla    	 Mammalia 
+mEscRob2.pri	GCF_028021215.1	GCA_028021215.1	Eschrichtius robustus	9764	 Cetacea         	 Mammalia 
+mEubGla1.1.hap2.+ XY	GCF_028564815.1	GCA_028564815.2	Eubalaena glacialis	27606	 Cetacea         	 Mammalia 
+OSU_ERuf_1	GCF_041146395.1	GCA_041146395.1	Eulemur rufifrons	859984	 Primates        	 Mammalia 
+ASM402803v1	GCF_004028035.1	GCA_004028035.1	Eumetopias jubatus	34886	 Carnivora       	 Mammalia 
+F.catus_Fca126_mat1.0	GCF_018350175.1	GCA_018350175.1	Felis catus	9685	 Carnivora       	 Mammalia 
+DMR_v1.0_HiC	GCF_012274545.1	GCA_012274545.1	Fukomys damarensis	885580	 Rodentia        	 Mammalia 
+Gpyr_1.0	GCA_019455555.1		Galemys pyrenaicus	202257	 Eulipotyphla    	 Mammalia 
+G_variegatus-3.0.2	GCF_000696425.1	GCA_000696425.1	Galeopterus variegatus	482537	 Dermoptera      	 Mammalia 
+mGloMel1.2	GCF_963455315.2	GCA_963455315.2	Globicephala melas	9731	 Cetacea         	 Mammalia 
+NHGRI_mGorGor1-v2.1_pri	GCF_029281585.2	GCA_029281585.3	Gorilla gorilla gorilla	9595	 Primates        	 Mammalia 
+AgileGrace	GCF_016433145.1	GCA_016433145.1	Gracilinanus agilis	191870	 Didelphimorphia 	 Mammalia 
+NIH_TR_1.0	GCF_004785775.1	GCA_004785775.1	Grammomys surdaster	491861	 Rodentia        	 Mammalia 
+Gulo_gulo_luscus_R-V1.0	GCA_024510155.1		Gulo gulo luscus	2888765	 Carnivora       	 Mammalia 
+mHalGry1.hap1.1	GCF_964656455.1	GCA_964656455.1	Halichoerus grypus	9711	 Carnivora       	 Mammalia 
+PumYag	GCF_014898765.1	GCA_014898765.1	Herpailurus yagouaroundi	1608482	 Carnivora       	 Mammalia 
+HetGla_female_1.0	GCF_000247695.1	GCA_000247695.1	Heterocephalus glaber	10181	 Rodentia        	 Mammalia 
+mHipAmp2.hap2	GCF_030028045.1	GCA_030028045.1	Hippopotamus amphibius kiboko	575201	 Artiodactyla    	 Mammalia 
+ASM189008v1	GCF_001890085.2	GCA_001890085.1	Hipposideros armiger	186990	 Chiroptera      	 Mammalia 
+GRCh38.p14	GCF_000001405.40	GCA_000001405.29	Homo sapiens	9606	 Primates        	 Mammalia 
+ASM300989v1	GCF_003009895.1	GCA_003009895.1	Hyaena hyaena	95912	 Carnivora       	 Mammalia 
+HMol_V3	GCF_009828535.3	GCA_009828535.3	Hylobates moloch	81572	 Primates        	 Mammalia 
+mIctTri1.hap1	GCF_052094955.1	GCA_052094955.1	Ictidomys tridecemlineatus	43179	 Rodentia        	 Mammalia 
+mJacJac1.mat.Y.cur	GCF_020740685.1	GCA_020740685.1	Jaculus jaculus	51337	 Rodentia        	 Mammalia 
+mKogBre1 haplotype 1	GCF_026419965.1	GCA_026419965.1	Kogia breviceps	27615	 Cetacea         	 Mammalia 
+mLagAlb1.1	GCF_949774975.1	GCA_949774975.1	Lagenorhynchus albirostris	27610	 Cetacea         	 Mammalia 
+Lemmus_lemmus_n_2024_04_v2	GCA_964027135.1		Lemmus lemmus	79949	 Rodentia        	 Mammalia 
+mLemCat1.pri	GCF_020740605.2	GCA_020740605.1	Lemur catta	9447	 Primates        	 Mammalia 
+O.geoffroyi_Oge1_pat1.0	GCF_018350155.1	GCA_018350155.1	Leopardus geoffroyi	46844	 Carnivora       	 Mammalia 
+LepWed1.0	GCF_000349705.1	GCA_000349705.1	Leptonychotes weddellii	9713	 Carnivora       	 Mammalia 
+mLepTim1.pri	GCF_033115175.1	GCA_033115175.1	Lepus europaeus	9983	 Lagomorpha      	 Mammalia 
+Lipotes_vexillifer_v1.1	GCF_000442215.2	GCA_000442215.2	Lipotes vexillifer	118797	 Cetacea         	 Mammalia 
+GSC_riverotter_1.0	GCF_010015895.1	GCA_010015895.1	Lontra canadensis	76717	 Carnivora       	 Mammalia 
+mLoxAfr1.hap2	GCF_030014295.1	GCA_030014295.1	Loxodonta africana	9785	 Proboscidea     	 Mammalia 
+mLutLut1.2	GCF_902655055.1	GCA_902655055.2	Lutra lutra	9657	 Carnivora       	 Mammalia 
+mLynCan4.pri.v2	GCF_007474595.2	GCA_007474595.2	Lynx canadensis	61383	 Carnivora       	 Mammalia 
+LYPA1.0	GCA_900661375.1		Lynx pardinus	191816	 Carnivora       	 Mammalia 
+mLynRuf1.p	GCF_022079265.1	GCA_022079265.1	Lynx rufus	61384	 Carnivora       	 Mammalia 
+T2T-MFA8v1.1	GCF_037993035.2	GCA_037993035.2	Macaca fascicularis	9541	 Primates        	 Mammalia 
+T2T-MMU8v2.0	GCF_049350105.2	GCA_049350105.2	Macaca mulatta	9544	 Primates        	 Mammalia 
+mMacNem.hap1	GCF_043159975.1	GCA_043159975.1	Macaca nemestrina	9545	 Primates        	 Mammalia 
+ASM2454274v1	GCF_024542745.1	GCA_024542745.1	Macaca thibetana thibetana	257877	 Primates        	 Mammalia 
+bilby.v1.9.chrom.fasta	GCF_037893015.1	GCA_037893015.1	Macrotis lagotis	92651	 Peramelemorphia 	 Mammalia 
+Mleu.le_1.0	GCF_000951045.1	GCA_000951045.1	Mandrillus leucophaeus	9568	 Primates        	 Mammalia 
+MJ_LKY	GCF_040802235.1	GCA_040802235.1	Manis javanica	9974	 Pholidota       	 Mammalia 
+mManPen7.hap1	GCF_030020395.1	GCA_030020395.1	Manis pentadactyla	143292	 Pholidota       	 Mammalia 
+mMarFla1.hap1	GCF_047511675.1	GCA_047511675.1	Marmota flaviventris	93162	 Rodentia        	 Mammalia 
+marMar	GCF_001458135.2	GCA_001458135.2	Marmota marmota marmota	9994	 Rodentia        	 Mammalia 
+Marmota_monax_Labrador192_F-V1.1	GCF_021218885.2	GCA_021218885.2	Marmota monax	9995	 Rodentia        	 Mammalia 
+UCSF_Mcou_1	GCF_008632895.1	GCA_008632895.1	Mastomys coucha	35658	 Rodentia        	 Mammalia 
+mMelMel3.1 paternal haplotype	GCF_922984935.1	GCA_922984935.1	Meles meles	9662	 Carnivora       	 Mammalia 
+Bangor_MerUng_6.1	GCF_030254825.1	GCA_030254825.1	Meriones unguiculatus	10047	 Rodentia        	 Mammalia 
+BCM_Maur_2.0	GCF_017639785.1	GCA_017639785.1	Mesocricetus auratus	10036	 Rodentia        	 Mammalia 
+mMesDen1 primary haplotype	GCF_025265405.1	GCA_025265405.1	Mesoplodon densirostris	48708	 Cetacea         	 Mammalia 
+M.murinus_Inina_mat1.0	GCF_040939455.1	GCA_040939455.2	Microcebus murinus	30608	 Primates        	 Mammalia 
+MicOch1.0	GCF_000317375.1	GCA_000317375.1	Microtus ochrogaster	79684	 Rodentia        	 Mammalia 
+Mior012	GCF_018167655.1	GCA_018167655.1	Microtus oregoni	111838	 Rodentia        	 Mammalia 
+mMicPen1.hap1	GCF_037038515.1	GCA_037038515.1	Microtus pennsylvanicus	10058	 Rodentia        	 Mammalia 
+Mnat.v1	GCF_001595765.1	GCA_001595765.1	Miniopterus natalensis	291302	 Chiroptera      	 Mammalia 
+mMirAng1.0.hap1	GCF_029215605.1	GCA_029215605.1	Mirounga angustirostris	9716	 Carnivora       	 Mammalia 
+KU_Mleo_1.0	GCF_011800145.1	GCA_011800145.1	Mirounga leonina	9715	 Carnivora       	 Mammalia 
+mMolMol1.p	GCF_014108415.1	GCA_014108415.1	Molossus molossus	27622	 Chiroptera      	 Mammalia 
+mMonDom1.pri	GCF_027887165.1	GCA_027887165.1	Monodelphis domestica	13616	 Didelphimorphia 	 Mammalia 
+NGI_Narwhal_1	GCF_005190385.1	GCA_005190385.2	Monodon monoceros	40151	 Cetacea         	 Mammalia 
+ASM2237691v1	GCF_022376915.1	GCA_022376915.1	Moschus berezovskii	68408	 Artiodactyla    	 Mammalia 
+UCB_Mmun_1.0	GCA_008782695.1		Muntiacus muntjak	9888	 Artiodactyla    	 Mammalia 
+mMunRee1.1	GCF_963930625.1	GCA_963930625.1	Muntiacus reevesi	9886	 Artiodactyla    	 Mammalia 
+CAROLI_EIJ_v1.1	GCF_900094665.2	GCA_900094665.2	Mus caroli	10089	 Rodentia        	 Mammalia 
+GRCm39	GCF_000001635.27	GCA_000001635.9	Mus musculus	10090	 Rodentia        	 Mammalia 
+PAHARI_EIJ_v1.1	GCF_900095145.1	GCA_900095145.2	Mus pahari	10093	 Rodentia        	 Mammalia 
+mMusErm1.Pri	GCF_009829155.1	GCA_009829155.1	Mustela erminea	36723	 Carnivora       	 Mammalia 
+mMusLut2.pri	GCF_030435805.1	GCA_030435805.1	Mustela lutreola	9666	 Carnivora       	 Mammalia 
+MUSNIG.SB6536	GCF_022355385.1	GCA_022355385.1	Mustela nigripes	77151	 Carnivora       	 Mammalia 
+ASM1176430v1.1	GCF_011764305.1	GCA_011764305.2	Mustela putorius furo	9669	 Carnivora       	 Mammalia 
+Bank_vole1_10x	GCF_902806735.1	GCA_902806735.1	Myodes glareolus	447135	 Rodentia        	 Mammalia 
+ASM41265v1	GCF_000412655.1	GCA_000412655.1	Myotis brandtii	109478	 Chiroptera      	 Mammalia 
+mMyoDau2.1	GCF_963259705.1	GCA_963259705.1	Myotis daubentonii	98922	 Chiroptera      	 Mammalia 
+ASM32734v1	GCF_000327345.1	GCA_000327345.1	Myotis davidii	225400	 Chiroptera      	 Mammalia 
+Myoluc2.0	GCF_000147115.1	GCA_000147115.1	Myotis lucifugus	59463	 Chiroptera      	 Mammalia 
+mMyoMyo1.p	GCF_014108235.1	GCA_014108235.1	Myotis myotis	51298	 Chiroptera      	 Mammalia 
+mMyoYum1.0.hap1	GCF_028538775.1	GCA_028538775.1	Myotis yumanensis	159337	 Chiroptera      	 Mammalia 
+S.galili_v1.0	GCF_000622305.1	GCA_000622305.1	Nannospalax galili	1026970	 Rodentia        	 Mammalia 
+ASM4783464v1	GCA_047834645.1		Nasalis larvatus	43780	 Primates        	 Mammalia 
+mNeoNeb1.pri	GCF_028018385.1	GCA_028018385.1	Neofelis nebulosa	61452	 Carnivora       	 Mammalia 
+ASM_NN_V1	GCF_020171115.1	GCA_020171115.1	Neogale vison	452646	 Carnivora       	 Mammalia 
+ASM220157v2	GCF_002201575.2	GCA_002201575.2	Neomonachus schauinslandi	29088	 Carnivora       	 Mammalia 
+Neophocaena_asiaeorientalis_V1.1	GCF_003031525.2	GCA_003031525.2	Neophocaena asiaeorientalis asiaeorientalis	1706337	 Cetacea         	 Mammalia 
+ASM167557v1	GCA_001675575.1		Neotoma lepida	56216	 Rodentia        	 Mammalia 
+Asia_NLE_v1	GCF_006542625.1	GCA_006542625.1	Nomascus leucogenys	61853	 Primates        	 Mammalia 
+mMacEug1.pri_v2	GCF_028372415.1	GCA_028372415.2	Notamacropus eugenii	9315	 Diprotodontia   	 Mammalia 
+NYPRO_anot_genome	GCF_905146905.1	GCA_905146905.1	Nyctereutes procyonoides	34880	 Carnivora       	 Mammalia 
+mNycCou1.pri	GCF_027406575.1	GCA_027406575.1	Nycticebus coucang	9470	 Primates        	 Mammalia 
+NIBS_Ocur_1.0	GCF_017591425.1	GCA_017591425.1	Ochotona curzoniae	130825	 Lagomorpha      	 Mammalia 
+mOchPri1.hap1	GCF_030435755.1	GCA_030435755.1	Ochotona princeps	9978	 Lagomorpha      	 Mammalia 
+OctDeg1.0	GCF_000260255.1	GCA_000260255.1	Octodon degus	10160	 Rodentia        	 Mammalia 
+Oros_1.0	GCF_000321225.1	GCA_000321225.1	Odobenus rosmarus divergens	9708	 Carnivora       	 Mammalia 
+Ovbor_1.2	GCF_023699985.2	GCA_023699985.4	Odocoileus virginianus	9874	 Artiodactyla    	 Mammalia 
+mOncTor1.1	GCF_903995425.1	GCA_903995425.1	Onychomys torridus	38674	 Rodentia        	 Mammalia 
+mOrcOrc1.1	GCF_937001465.1	GCA_937001465.1	Orcinus orca	9733	 Cetacea         	 Mammalia 
+mOrnAna1.pri.v4	GCF_004115215.2	GCA_004115215.4	Ornithorhynchus anatinus	9258	 Monotremata     	 Mammalia 
+OryAfe1.0	GCF_000298275.1	GCA_000298275.1	Orycteropus afer afer	1230840	 Tubulidentata   	 Mammalia 
+mOryCun1.1	GCF_964237555.1	GCA_964237555.1	Oryctolagus cuniculus	9986	 Lagomorpha      	 Mammalia 
+SCBI_Odam_1.1	GCF_014754425.2	GCA_014754425.2	Oryx dammah	59534	 Artiodactyla    	 Mammalia 
+OtoGar3	GCF_000181295.1	GCA_000181295.3	Otolemur garnettii	30611	 Primates        	 Mammalia 
+O.moschatus_RAN27_v1.0	GCA_041156055.1		Ovibos moschatus	37176	 Artiodactyla    	 Mammalia 
+CAU_O.ammon polii_1.0	GCA_028583565.1		Ovis ammon polii	230172	 Artiodactyla    	 Mammalia 
+CAU_F1_maternal_1.0	GCA_023701675.1		Ovis ammon polii x Ovis aries	2918886	 Artiodactyla    	 Mammalia 
+ARS-UI_Ramb_v3.0	GCF_016772045.2	GCA_016772045.2	Ovis aries	9940	 Artiodactyla    	 Mammalia 
+ARS-UI_OviCan_v2	GCF_042477335.2	GCA_042477335.2	Ovis canadensis	37174	 Artiodactyla    	 Mammalia 
+NHGRI_mPanPan1-v2.1_pri	GCF_029289425.2	GCA_029289425.3	Pan paniscus	9597	 Primates        	 Mammalia 
+NHGRI_mPanTro3-v2.1_pri	GCF_028858775.2	GCA_028858775.3	Pan troglodytes	9598	 Primates        	 Mammalia 
+P.leo_Ple1_pat1.1	GCF_018350215.1	GCA_018350215.1	Panthera leo	9689	 Carnivora       	 Mammalia 
+Panthera_onca_HiC	GCF_028533385.1	GCA_028533385.1	Panthera onca	9690	 Carnivora       	 Mammalia 
+ASM2436296v1	GCF_024362965.1	GCA_024362965.1	Panthera pardus	9691	 Carnivora       	 Mammalia 
+P.tigris_Pti1_mat1.1	GCF_018350195.1	GCA_018350195.2	Panthera tigris	9694	 Carnivora       	 Mammalia 
+Puncia_PCG_1.0	GCF_023721935.1	GCA_023721935.1	Panthera uncia	29064	 Carnivora       	 Mammalia 
+Panubis1.0	GCF_008728515.1	GCA_008728515.1	Papio anubis	9555	 Primates        	 Mammalia 
+ASM2315922v1	GCF_023159225.1	GCA_023159225.1	Perognathus longimembris pacificus	214514	 Rodentia        	 Mammalia 
+ASM782708v3	GCF_007827085.1	GCA_007827085.3	Peromyscus californicus insignis	564181	 Rodentia        	 Mammalia 
+PerEre_H2_v1	GCF_949786415.1	GCA_949786415.1	Peromyscus eremicus	42410	 Rodentia        	 Mammalia 
+UCI_PerLeu_2.1	GCF_004664715.2	GCA_004664715.2	Peromyscus leucopus	10041	 Rodentia        	 Mammalia 
+HU_Pman_BW_mat_3.1	GCF_049852395.1	GCA_049852395.1	Peromyscus maniculatus bairdii	230844	 Rodentia        	 Mammalia 
+PetGlider_PUasm1.0	GCF_028583685.1	GCA_028583685.1	Petaurus breviceps papuanus	3040969	 Diprotodontia   	 Mammalia 
+ROS_Pafr_v1	GCF_016906955.1	GCA_016906955.1	Phacochoerus africanus	41426	 Artiodactyla    	 Mammalia 
+phaCin_HiC	GCF_003287225.1	GCA_003287225.2	Phascolarctos cinereus	38626	 Diprotodontia   	 Mammalia 
+GSC_HSeal_1.0	GCF_004348235.1	GCA_004348235.1	Phoca vitulina	9720	 Carnivora       	 Mammalia 
+mPhoPho1.1	GCF_963924675.1	GCA_963924675.1	Phocoena phocoena	9742	 Cetacea         	 Mammalia 
+mPhoSin1.pri	GCF_008692025.1	GCA_008692025.1	Phocoena sinus	42100	 Cetacea         	 Mammalia 
+PHOROB	GCF_943737965.1	GCA_943737965.1	Phodopus roborovskii	109678	 Rodentia        	 Mammalia 
+mPhyDis1.pri.v3	GCF_004126475.2	GCA_004126475.3	Phyllostomus discolor	89673	 Chiroptera      	 Mammalia 
+TTU_PhHast_1.1	GCF_019186645.2	GCA_019186645.2	Phyllostomus hastatus	9423	 Chiroptera      	 Mammalia 
+ASM283717v5	GCF_002837175.3	GCA_002837175.5	Physeter macrocephalus	9755	 Cetacea         	 Mammalia 
+ASM277652v5	GCF_002776525.5	GCA_002776525.5	Piliocolobus tephrosceles	591936	 Primates        	 Mammalia 
+mPipKuh1.p	GCF_014108245.1	GCA_014108245.1	Pipistrellus kuhlii	59472	 Chiroptera      	 Mammalia 
+mPipNat.pri	GCA_963693515.1		Pipistrellus nathusii	59473	 Chiroptera      	 Mammalia 
+PleCup_hybrid	GCA_040437455.1		Plecturocebus cupreus	202457	 Primates        	 Mammalia 
+NHGRI_mPonAbe1-v2.1_pri	GCF_028885655.2	GCA_028885655.3	Pongo abelii	9601	 Primates        	 Mammalia 
+NHGRI_mPonPyg2-v2.1_pri	GCF_028885625.2	GCA_028885625.3	Pongo pygmaeus	9600	 Primates        	 Mammalia 
+ASM1175407v1	GCA_011754075.1		Pontoporia blainvillei	48723	 Cetacea         	 Mammalia 
+Fcat_Pben_1.1_paternal_pri	GCF_016509475.1	GCA_016509475.2	Prionailurus bengalensis	37029	 Carnivora       	 Mammalia 
+UM_Priviv_1.0	GCF_022837055.1	GCA_022837055.1	Prionailurus viverrinus	61388	 Carnivora       	 Mammalia 
+Pcoq_1.0	GCF_000956105.1	GCA_000956105.1	Propithecus coquereli	379532	 Primates        	 Mammalia 
+mPsaObe1.curated_primary_1811	GCF_907164565.1	GCA_907164565.1	Psammomys obesus	48139	 Rodentia        	 Mammalia 
+mPseCra1.hap1	GCF_039906515.1	GCA_039906515.1	Pseudorca crassidens	82174	 Cetacea         	 Mammalia 
+CSHL_Meso_final	GCF_021234165.1	GCA_021234165.1	Pteronotus mesoamericanus	1884717	 Chiroptera      	 Mammalia 
+ASM32557v1	GCF_000325575.1	GCA_000325575.1	Pteropus alecto	9402	 Chiroptera      	 Mammalia 
+Ma_sr-lr_union100	GCF_902729225.1	GCA_902729225.1	Pteropus medius	143291	 Chiroptera      	 Mammalia 
+Pvam_2.0	GCF_000151845.1	GCA_000151845.2	Pteropus vampyrus	132908	 Chiroptera      	 Mammalia 
+PumCon1.0	GCF_003327715.1	GCA_003327715.1	Puma concolor	9696	 Carnivora       	 Mammalia 
+mRanTar1.h1.1	GCA_949782905.1		Rangifer tarandus platyrhynchus	3082113	 Artiodactyla   	 Mammalia 
+GRCr8	GCF_036323735.1	GCA_036323735.1	Rattus norvegicus	10116	 Rodentia       	 Mammalia 
+Rrattus_CSIRO_v1	GCF_011064425.1	GCA_011064425.1	Rattus rattus	10117	 Rodentia       	 Mammalia 
+mRhiFer1_v1.p	GCF_004115265.2	GCA_004115265.3	Rhinolophus ferrumequinum	59479	 Chiroptera     	 Mammalia 
+ASM3656204v1	GCF_036562045.2	GCA_036562045.1	Rhinolophus sinicus	89399	 Chiroptera     	 Mammalia 
+ASM169854v2	GCF_001698545.2	GCA_001698545.2	Rhinopithecus bieti	61621	 Primates       	 Mammalia 
+ASM756505v1	GCF_007565055.1	GCA_007565055.1	Rhinopithecus roxellana	61622	 Primates       	 Mammalia 
+mRouAeg1.p	GCF_014176215.1	GCA_014176215.1	Rousettus aegyptiacus	9407	 Chiroptera     	 Mammalia 
+mSacBil1_pri_phased_curated	GCF_036850765.1	GCA_036850765.1	Saccopteryx bilineata	59482	 Chiroptera     	 Mammalia 
+mSacLep1_pri_phased_curated	GCF_036850995.1	GCA_036850995.1	Saccopteryx leptura	249018	 Chiroptera     	 Mammalia 
+ASM367639v1	GCF_003676395.1	GCA_003676395.1	Sagmatias obliquidens	3371155	 Cetacea        	 Mammalia 
+ASM3183507v1	GCA_031835075.1		Saguinus oedipus	9490	 Primates       	 Mammalia 
+mSaiBol1.pri	GCF_048565385.1	GCA_048565385.1	Saimiri boliviensis	27679	 Primates       	 Mammalia 
+GSC_monkey_1.0	GCF_009761245.1	GCA_009761245.1	Sapajus apella	9515	 Primates       	 Mammalia 
+mSarHar1.11	GCF_902635505.1	GCA_902635505.1	Sarcophilus harrisii	9305	 Dasyuromorphia 	 Mammalia 
+mSciCar1.2	GCF_902686445.1	GCA_902686445.2	Sciurus carolinensis	30640	 Rodentia       	 Mammalia 
+ASM4990163v1	GCA_049901635.1		Scotinomys teguina	56236	 Rodentia       	 Mammalia 
+SemEnt	GCA_047655295.1		Semnopithecus entellus	88029	 Primates       	 Mammalia 
+ASM4859323v1	GCF_048593235.1	GCA_048593235.1	Sminthopsis crassicaudata	9301	 Dasyuromorphia 	 Mammalia 
+SGIG_CAM011_5_02_2020	GCA_032199065.1		Smutsia gigantea	1559511	 Pholidota      	 Mammalia 
+mSorAra2.pri	GCF_027595985.1	GCA_027595985.1	Sorex araneus	42254	 Eulipotyphla   	 Mammalia 
+SorFum_2.1	GCF_029834395.1	GCA_029834395.2	Sorex fumeus	62283	 Eulipotyphla   	 Mammalia 
+WHU_Shon_v2.1	GCF_014824575.3	GCA_014824575.2	Sturnira hondurensis	192404	 Chiroptera     	 Mammalia 
+mSunEtr1.pri.cur	GCF_024139225.1	GCA_024139225.1	Suncus etruscus	109475	 Eulipotyphla   	 Mammalia 
+meerkat_22Aug2017_6uvM2_HiC	GCF_006229205.1	GCA_006229205.1	Suricata suricatta	37032	 Carnivora      	 Mammalia 
+Sscrofa11.1	GCF_000003025.6	GCA_000003025.6	Sus scrofa	9823	 Artiodactyla   	 Mammalia 
+NHGRI_mSymSyn1-v2.1_pri	GCF_028878055.3	GCA_028878055.3	Symphalangus syndactylus	9590	 Primates       	 Mammalia 
+mTacAcu1.pri	GCF_015852505.1	GCA_015852505.1	Tachyglossus aculeatus	9261	 Monotremata    	 Mammalia 
+MPIMG_talOcc4v2.1	GCF_014898055.3	GCA_014898055.3	Talpa occidentalis	50954	 Eulipotyphla   	 Mammalia 
+mTamTet1.pri	GCF_023851605.1	GCA_023851605.1	Tamandua tetradactyla	48850	 Pilosa         	 Mammalia 
+mTenEca1.hap1	GCF_050624435.1	GCA_050624435.1	Tenrec ecaudatus	94439	 Afrosoricida   	 Mammalia 
+Tgel_1.0	GCF_003255815.1	GCA_003255815.1	Theropithecus gelada	9565	 Primates       	 Mammalia 
+Tfra_2.0	GCF_009764315.1	GCA_009764315.1	Trachypithecus francoisi	54180	 Primates       	 Mammalia 
+TriManLat1.0	GCF_000243295.1	GCA_000243295.1	Trichechus manatus latirostris	127582	 Sirenia        	 Mammalia 
+mTriVul1.pri	GCF_011100635.1	GCA_011100635.1	Trichosurus vulpecula	9337	 Diprotodontia  	 Mammalia 
+TupChi_1.0	GCF_000334495.1	GCA_000334495.1	Tupaia chinensis	246437	 Scandentia     	 Mammalia 
+mTurTru1.mat.Y	GCF_011762595.2	GCA_011762595.2	Tursiops truncatus	9739	 Cetacea        	 Mammalia 
+mUroPar1.hap1	GCF_045843805.1	GCA_045843805.1	Urocitellus parryii	9999	 Rodentia       	 Mammalia 
+gsc_jax_bbear_1.0	GCF_020975775.1	GCA_020975775.1	Ursus americanus	9643	 Carnivora      	 Mammalia 
+UrsArc2.0	GCF_023065955.2	GCA_023065955.2	Ursus arctos	9644	 Carnivora      	 Mammalia 
+ASM1731132v1	GCF_017311325.1	GCA_017311325.1	Ursus maritimus	29073	 Carnivora      	 Mammalia 
+VicPac4	GCF_048564905.1	GCA_048564905.1	Vicugna pacos	30538	 Artiodactyla   	 Mammalia 
+bare-nosed wombat genome assembly	GCF_900497805.2	GCA_900497805.2	Vombatus ursinus	29139	 Diprotodontia  	 Mammalia 
+ASM1834538v1	GCF_018345385.1	GCA_018345385.1	Vulpes lagopus	494514	 Carnivora      	 Mammalia 
+VulVul3	GCF_048418805.1	GCA_048418805.1	Vulpes vulpes	9627	 Carnivora      	 Mammalia 
+mZalCal1.pri.v2	GCF_009762305.2	GCA_009762305.2	Zalophus californianus	9704	 Carnivora      	 Mammalia 
